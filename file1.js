@@ -1,5 +1,6 @@
 //hello evry
 
 function hello(){
-    print('hello')
+    print('hello');
+    return 1;
 }
